@@ -53,21 +53,6 @@ Currently, I am focusing on:
 
 <br/>
 
-## 📊 Development Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=appratamaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=4F46E5&icon_color=4F46E5&text_color=9f9f9f" height="150" alt="Andre's Stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appratamaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=4F46E5&icon_color=4F46E5&text_color=9f9f9f" height="150" alt="Andre's Top Languages" />
-  </a>
-  
-</div>
-
-<br/>
-
 <div align="center">
   <a href="mailto:appratamaaa82@gmail.com">
     <img src="https://img.shields.io/badge/Email-4F46E5?style=flat&logo=gmail&logoColor=white" />
