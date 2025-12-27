@@ -15,47 +15,62 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=220&section=header&text=Hi,%20I'm%20Andre!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Fullstack%20Developer%20%26%20CS%20Student&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Andre.;Fullstack+Developer.;CS+Student+%40+Telkom+Univ.;Always+Learning.+Always+Coding." alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,tailwind,mysql,html,css,linux,git,docker,vscode,postman,idea,py,java,cpp,figma&perline=10&theme=dark" />
+  </a>
+
 </div>
 
+<br/>
+<br/>
+
+## 👨‍💻 About Me
+
+I am a Computer Science Student at **Telkom University** (IF-48-11) with a strong passion for Software Engineering and System Operations. I specialize in building robust web applications using the **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) and enjoy solving complex algorithmic problems.
+
+Currently, I am focusing on:
+* Advanced Algorithm Complexity Analysis.
+* System Architecture & Security.
+* Building scalable web solutions.
+
+---
+
+## 🛠️ Selected Projects
+
+| Project Name | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Split Bill Optimizer](https://github.com/appratamaa/splitbill)** | Laravel, Tailwind, Chart.js | Solving 0/1 Knapsack problem for bill splitting optimization. Comparing Iterative vs Recursive approaches. |
+| **Dental Clinic System** | Laravel, MySQL, Bootstrap | (Contoh) Comprehensive management system for patient records and appointments. |
+| **Network Monitor** | Python, Linux | (Contoh) Real-time server monitoring tool and alert system. |
+| **Portfolio V1** | React, Tailwind | (Contoh) Personal landing page with dark mode support. |
+
+<br/>
+
+## 📊 Development Stats
+
 <div align="center">
-
-  ### 🚀 About Me
+  <img src="https://github-readme-stats.vercel.app/api?username=appratamaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4F46E5&icon_color=4F46E5&text_color=bfbfbf" height="150" alt="stats" />
   
-  Mahasiswa Informatika di **Telkom University**. Saya menyukai tantangan dalam mengubah logika algoritma yang rumit menjadi aplikasi web yang indah dan fungsional. Saat ini sedang mendalami **Laravel**, **System Operations**, dan **Algorithm Complexity**.
-
-  ---
-
-  ### 🛠️ Tech Stack & Tools
-
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appratamaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4F46E5&icon_color=4F46E5&text_color=bfbfbf" height="150" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
-
-  ### 📊 GitHub Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=appratamaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" height="160" alt="Andre's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appratamaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" height="160" alt="Andre's Languages" />
-
-</div>
-
-<br/>
-
-<div align="center"> 
   <a href="mailto:appratamaaa82@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-4F46E5?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/appratamaa_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-4F46E5?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/andreputrap">
+    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
