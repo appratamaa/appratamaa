@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Student at **Telkom University** (IF-48-11) with a strong passion for Software Engineering and System Operations. I specialize in building robust web applications using the **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) and enjoy solving complex algorithmic problems.
+I am a Computer Science Student at **Telkom University** with a strong passion for Software Engineering and System Operations. I specialize in building robust web applications using the **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) and enjoy solving complex algorithmic problems.
 
 Currently, I am focusing on:
 * Advanced Algorithm Complexity Analysis.
@@ -47,18 +47,23 @@ Currently, I am focusing on:
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[Split Bill Optimizer](https://github.com/appratamaa/splitbill)** | Laravel, Tailwind, Chart.js | Solving 0/1 Knapsack problem for bill splitting optimization. Comparing Iterative vs Recursive approaches. |
-| **Dental Clinic System** | Laravel, MySQL, Bootstrap | (Contoh) Comprehensive management system for patient records and appointments. |
-| **Network Monitor** | Python, Linux | (Contoh) Real-time server monitoring tool and alert system. |
-| **Portfolio V1** | React, Tailwind | (Contoh) Personal landing page with dark mode support. |
+| **Dental Clinic System** | Laravel, MySQL, Bootstrap | Comprehensive management system for patient records and appointments. |
+| **Network Monitor** | Python, Linux | Real-time server monitoring tool and alert system. |
+| **Portfolio V1** | React, Tailwind | Personal landing page with dark mode support. |
 
 <br/>
 
 ## 📊 Development Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=appratamaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4F46E5&icon_color=4F46E5&text_color=bfbfbf" height="150" alt="stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=appratamaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=4F46E5&icon_color=4F46E5&text_color=9f9f9f" height="150" alt="Andre's Stats" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appratamaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4F46E5&icon_color=4F46E5&text_color=bfbfbf" height="150" alt="languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appratamaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=4F46E5&icon_color=4F46E5&text_color=9f9f9f" height="150" alt="Andre's Top Languages" />
+  </a>
+  
 </div>
 
 <br/>
