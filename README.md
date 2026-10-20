@@ -69,7 +69,7 @@ I am an Informatics student at **Telkom University** specializing in designing e
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connections & Links
 
 <div align="left">
-  <a href="https://andreputra.dev">
+  <a href="https://s.telkomuniversity.ac.id/PortofolioAndre">
     <img src="https://img.shields.io/badge/Digital_Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/andreputrap">
